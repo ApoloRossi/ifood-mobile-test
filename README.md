@@ -1,5 +1,5 @@
 # ifood-mobile-test
-Create an app that given an Twitter username it will list user's tweets. When I tap one of the tweets the app will visualy indicate if it's a happy, neutral or sad tweet.
+Create an app that given an Twitter username it will list userModel's tweets. When I tap one of the tweets the app will visualy indicate if it's a happy, neutral or sad tweet.
 
 ## Business rules
 * Happy Tweet: We want a vibrant yellow color on screen with a 😃 emoji
@@ -8,7 +8,7 @@ Create an app that given an Twitter username it will list user's tweets. When I 
 * For the first release we will only support english language
 
 ### Hints
-* You may use Twitter's oficial API (https://developer.twitter.com) to fetch user's tweets 
+* You may use Twitter's oficial API (https://developer.twitter.com) to fetch userModel's tweets
 * Google's Natural Language API (https://cloud.google.com/natural-language/) may help you with sentimental analysis.
 
 ## Non functional requirements
